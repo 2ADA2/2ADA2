@@ -1,4 +1,4 @@
-# Fronend developer
+# Frontend developer
 * React Angular Next js
 * HTML / CSS, JavaScript / TypeScript
 * Go, express js
