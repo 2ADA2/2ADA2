@@ -1,3 +1,12 @@
+# Fronend developer
+* React Angular Next js
+* HTML / CSS, JavaScript / TypeScript
+* Go, express js
+* Redux toolkit, MobX, Material UI
+* Apex Charts, Trading View Charting Library
+* WebSockets, REST API ( socket.io, axios )
+* mongoDB, Selectel
+
 ## Lastest & The Best Projects:
 
 ### Rippler
