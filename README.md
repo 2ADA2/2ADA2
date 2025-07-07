@@ -13,7 +13,7 @@
 - Frontend:  Next js, Redux toolkit, Material UI, Trading view (lightweight charts), soket.io, swiper.
 - Backend: express js, mongoDB, REST API & websoket (socket.io)
 
-### (https://github.com/2ADA2/uni)[Uni]
+### [Uni](https://github.com/2ADA2/uni)
 - Frontend: Angular, cookieSerivce
 - Backend: Go ( echo ), Selectel, mongoDB.
 
