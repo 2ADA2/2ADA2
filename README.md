@@ -9,11 +9,11 @@
 
 ## Lastest & The Best Projects:
 
-### (Rippler)[https://github.com/2ADA2/rippler]
+### [Rippler]([Rippler](https://github.com/2ADA2/rippler))
 - Frontend:  Next js, Redux toolkit, Material UI, Trading view (lightweight charts), soket.io, swiper.
 - Backend: express js, mongoDB, REST API & websoket (socket.io)
 
-### (Uni)[https://github.com/2ADA2/uni]
+### (https://github.com/2ADA2/uni)[Uni]
 - Frontend: Angular, cookieSerivce
 - Backend: Go ( echo ), Selectel, mongoDB.
 
