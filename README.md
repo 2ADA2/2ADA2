@@ -9,7 +9,7 @@
 
 ## Lastest & The Best Projects:
 
-### [Rippler]([Rippler](https://github.com/2ADA2/rippler))
+### [Rippler](https://github.com/2ADA2/rippler)
 - Frontend:  Next js, Redux toolkit, Material UI, Trading view (lightweight charts), soket.io, swiper.
 - Backend: express js, mongoDB, REST API & websoket (socket.io)
 
