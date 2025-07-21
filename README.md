@@ -6,6 +6,7 @@
 * Apex Charts, Trading View Charting Library
 * WebSockets, REST API ( socket.io, axios )
 * mongoDB, Selectel
+* Jira, git
 
 ## Lastest & The Best Projects:
 
