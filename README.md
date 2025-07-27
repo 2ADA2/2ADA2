@@ -1,4 +1,5 @@
 # Frontend developer
+[![wakatime](https://wakatime.com/badge/user/6a416cfb-bbff-48b8-8c6f-22fcb509635e.svg)](https://wakatime.com/@6a416cfb-bbff-48b8-8c6f-22fcb509635e)
 * React Angular Next js
 * HTML / CSS, JavaScript / TypeScript
 * Go, express js
