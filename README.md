@@ -15,8 +15,7 @@
 - Frontend:  Next js, Redux toolkit, Material UI, Trading view (lightweight charts), soket.io, swiper.
 - Backend: express js, mongoDB, REST API & websoket (socket.io)
 
-
-![uni profile](https://i.ibb.co/cKPz7spR/rippler.png)
+![rippler stock exchange](https://s3.iimg.su/s/12/g7KT2T8xELFWtO3e0Fi6FaiVSlzlp8oZTKNPGym8.png)
 
 
 ### [Uni](https://github.com/2ADA2/uni)
@@ -24,7 +23,7 @@
 - Backend: Go ( echo ), Selectel, mongoDB.
 
 
-![uni profile](https://i.ibb.co/n8DMbgr9/2025-03-29-014146.png)
+![uni profile](https://s3.iimg.su/s/12/gpQQnf2xDq4UvzVilAKbCNi7VUtUTYjDHsaL8A4o.png)
 
 
 ### [Keyflex](https://github.com/2ADA2/keyflex)
