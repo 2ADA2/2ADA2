@@ -15,7 +15,7 @@
 - Frontend:  Next js, Redux toolkit, Material UI, Trading view (lightweight charts), soket.io, swiper.
 - Backend: express js, mongoDB, REST API & websoket (socket.io)
 
-![rippler stock exchange](/assets/keyflex.png)
+![rippler stock exchange](/assets/rippler.png)
 
 
 ### [Uni](https://github.com/2ADA2/uni)
